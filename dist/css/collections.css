@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  font-size: 1.2rem; }
+  html body {
+    height: 100%;
+    margin: 0; }
+    html body h1,
+    html body h2,
+    html body h3,
+    html body h4,
+    html body h5,
+    html body h6,
+    html body p {
+      font-weight: normal;
+      margin: 0; }
+    html body a {
+      text-decoration: none;
+      color: #000; }
+    html body img {
+      width: 100%; }
+    html body .app {
+      position: relative;
+      height: 100%;
+      background-color: #f5f7f8; }
+      html body .app .list {
+        overflow-y: auto;
+        background-color: #fff; }
+
+

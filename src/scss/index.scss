@@ -1,0 +1,16 @@
+@import 'common.scss';
+
+.list{
+    margin-top: 7.2rem;
+}
+
+.box{
+    width: 300px;
+    height: 200px;
+    margin-top: 200px;
+    background-color: orange;
+    transform: rotate(30deg);
+    p{
+        font-size: 30px;
+    }
+}
